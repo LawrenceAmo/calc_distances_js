@@ -1,5 +1,5 @@
-# calc_distances_js
-javascript Distance Calculater
+# calculate _ Distances _ Javascript
+_javascript Distance Calculater
 By default The distance is in km, if you want to change it to m just devide by 100.
 
 The default coordinates, I used Durban and Pinetown.
